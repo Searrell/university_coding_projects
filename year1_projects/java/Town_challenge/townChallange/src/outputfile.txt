@@ -1,0 +1,18 @@
+Line 1 written to the file
+line 2 written to the file
+
+Line 1 written to the file
+line 2 written to the file
+Homes 0 Draws 0 Aways 0
+Belfast        7 Lisburn        8
+Derry          6 Crumlin        5
+Antrim         3 CitySide       2
+Castle Street   8 Falls          1
+Line 1 written to the file
+line 2 written to the file
+Homes 0 Draws 0 Aways 0
+Belfast        6 Lisburn        2
+Derry          3 Crumlin        1
+Antrim         6 CitySide       0
+Castle Street   1 Falls          1
+Homes 3 Draws 1 Aways 0

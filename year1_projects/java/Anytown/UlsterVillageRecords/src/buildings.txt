@@ -1,0 +1,11 @@
+B|23 Main Street|Car Park|||
+B|20 Ulster Road|Public Park|||
+B|23 Main Street|Police Station|||
+H|10 Downing Street|Joe Saller|3|true|
+H|30 Black Road|Connor Mitchell|5|true|
+H|14 Green Lane|James Nectar|2|false|
+H|25 Fast Road|Kevin Spacey|7|true|
+S|1 Lambo Lane|Lamborghini Dealership|10|30000000|
+S|20 Main Street|Mike's Corner Shop|5|150000|
+S|11 Low Street|Decat Kings|20|1500000|
+S|90 Back Road|Furniture NI|12|2000000|
